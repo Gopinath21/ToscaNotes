@@ -16,3 +16,22 @@ TNSNAME.ORA
 Recovery moudules : 
 
 
+1)XB : Exbuffer value 
+dinamic buffer
+
+==============================================
+
+ODBV Data scourse Adminitosntioan: 
+
+we have to configure the  DB details in ODBC 
+DSN : inform the DSN name in field called DSN .
+
+
+
+TNSNAME.ORA 
+
+
+Recovery moudules : 
+
+
+
