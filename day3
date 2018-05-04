@@ -1,0 +1,108 @@
+Repetition: us used for iterration 
+
+randomtext : 
+randomregex: used for random regex
+ 
+iteration :
+
+XML scanning used for api 
+====================================================
+
+Open.Create XM 
+
+====================================================
+
+XML : extensible markup language much like HTML ]
+Purpose : Store and tranport data
+XML does not do anything 
+
+XML tags are not predefined like HTML are.
+The XLM language has no predefined tags.
+
+in HTML : have predefined tags.
+with XLM , the author must define both tags and document structure.
+
+===================================================
+
+XML simplifies things :=
+
+it simplifies data sharing 
+it simplifies data transport 
+it simplifies platform changes
+it simplifies data availability
+
+XML stores data in plain text format. This provides a software- and hardware-independent way of storing, transporting, and sharing data.
+
+XML also makes it easier to expand or upgrade to new operating systems, new applications, or new browsers, without losing data.
+
+
+=================================================================
+XML Separates Data from Presentation
+XML does not carry any information about how to be displayed.
+
+The same XML data can be used in many different presentation scenarios.
+
+Because of this, with XML, there is a full separation between data and presentation
+===================================================================
+XML Tree:
+
+XML documents form a tree structure that starts at "the root" and branches to "the leaves".
+
+XML Syntax Rules:
+
+The syntax rules of XML are very simple and logical. The rules are easy to learn, and easy to use.
+
+
+XML documents must contain one root element that is the parent of all other elements:
+
+In XML, it is illegal to omit the closing tag. All elements must have a closing tag:
+
+XML Tags are Case Sensitive
+
+Opening and closing tags must be written with the same case:
+
+
+If you place a character like "<" inside an XML element, it will generate an error because the parser interprets it as the start of a new element.
+
+avoid this error, replace the "<" character with an entity reference:
+
+XML does not truncate multiple white-spaces (HTML truncates multiple white-spaces to one single white-space):
+
+XML Stores New Line as LF.
+
+====================================================================
+XML Attributes:
+
+XML Attributes Must be Quoted
+Attribute values must always be quoted. Either single or double quotes can be used.
+
+For a person's gender, the <person> element can be written like this:
+If the attribute value itself contains double quotes you can use single quotes,
+
+
+
+Avoid XML Attributes:
+Some things to consider when using attributes are:
+
+attributes cannot contain multiple values (elements can)
+attributes cannot contain tree structures (elements can)
+attributes are not easily expandable (for future changes)
+==========================================================================================
+
+Solving the Name Conflict Using a Prefix
+Name conflicts in XML can easily be avoided using a name prefix.
+
+This XML carries information about an HTML table, and a piece of furniture:
+
+<h:table>
+  <h:tr>
+    <h:td>Apples</h:td>
+    <h:td>Bananas</h:td>
+  </h:tr>
+</h:table>
+
+<f:table>
+  <f:name>African Coffee Table</f:name>
+  <f:width>80</f:width>
+  <f:length>120</f:length>
+</f:table>
