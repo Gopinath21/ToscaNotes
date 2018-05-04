@@ -1,0 +1,52 @@
+Recovery : 
+
+to handle to ubnormal errors 
+
+
+clear all buffer 
+
+keep buffers in DB
+
+
+
+Custom Moduel :--
+
+TBOX -- XBrower -- Enable Xpath identification
+
+Buffer:
+If input values are needed more than once, they can be buffered using the ActionMode Buffer.
+
+TOSCA VL : 
+
+ELT componet
+
+
+=============================================================================
+Recovery is like exception handling ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+click on the testcase and creat the revoery && 
+inside the recovery && create the clean up activities. 
+'keep all the activies in recovery.
+
+create the clean up senario inside the recovery :
+
+
+OSV( Orchange states vertuvation ):-
+=============================================================================
+1)Stubs :-
+2) KEEP the OSV inbtween applications and tosca learn from 
+
+Tibeo EMBS queue 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
