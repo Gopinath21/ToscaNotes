@@ -1,0 +1,163 @@
+More practice * 
+
+use :
+
+1) TOSCA
+2) ease maintrance 
+3) stable 
+4) Oparations 
+
+
+RPA :Prodcution automation
+1) eae of learning  ,  ease of implement , 
+
+
+Tosca is Model Base Automation tool.
+
+Moudel : Technial changes 
+
+Test case : Bussness 
+
+
+Entitty , TOSCA .
+base line regress : 143;
+
+
+
+
+Resposits :1) single 2 ) Mulity 
+
+check out : get access obj ; changes
+
+Check in : all changes uploaded in DB
+update all : changes download from DB .
+
+
+standard modules: 
+
+Exploraty scenrion : 
+records 
+
+
+Process Operations : 
+
+to open browser & URL
+
+TBOX wait :  static wait 
+
+
+
+Requirements : -
+1) create requriment & mapp to testcases 
+
+Issue : this is like defect hub folder 
+
+Test case design :  Classes & instances 
+attribe & Value 
+
+========================
+
+Module 
+excution
+test cases 
+
+========================================
+Junkkines : scheduing & job on demand 
+
+Orcale DB : 
+
+DB : parrel excution & parrrel 
+
+
+Slect on screen : 
+
+Identity the ICONs; 
+
+
+===============================
+recomened by properites is recommend  way 
+achoer 
+
+default : id 
+
+innerText : is most stable
+attibute name : 
+
+
+wild card : * used for accroess the environments 
+
+Hide DoNothing : 
+
+in ActionMode : do nothing ( this is 
+
+
+Action Modes : 
+
+WaitOn ( wait for exists , wait for enabled , )
+
+Constraint : condistion to put on 
+
+
+Test Configuration: 
+
+{CP[Usernamen]}
+
+
+Scratch book : This is for unit testing .  results cant be saved 
+
+======================================================
+
+Idenitfy smartID
+
+==========================================================================
+First scan the page in module 
+create the moudule 
+create the testcase 
+
+
+========================================================================
+
+C:\Tosca_Projects\ToscaCommander for standaded lib
+
+
+Siebel engineer
+Porject -> Settings -> wizard -->Sieble 
+
+settings > TBOX > Synchromizaion --> 
+
+enable = true ; still wait on'
+
+==================================================================================
+
+X : used for robot click 
+
+
+images: 
+select the image & select the near image which is neary by, this near by image as refference 
+
+Accuracy : 65 is recomented 
+
+if go low in accuracy , script is fail 
+==================================================================
+
+rescan the page : which is not allow to create 
+
+==========================================================
+
+Kits go with plan 
+
+
+=============================================================
+if 
+condtion 
+
+repetiotion : we can do on test cases  not on module 
+
+
+==============================================================
+
+Buffers : are 2 types 
+statitc buffer : ( TBox set Buffer )
+Dynamic buffer : you need from application
+Work states are 3 : Plant , in progress , complete
+
